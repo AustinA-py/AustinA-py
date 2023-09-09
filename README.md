@@ -4,7 +4,7 @@
   </head>
   <div>
     <header>
-      <h1>Austin Averill - GIS Developer</h1>
+     <h1><img radius=50% width=80px src = "https://blob.sololearn.com/avatars/0f538b84-bf41-44bc-ab7a-0391a3de2277.jpg"> Austin Averill - GIS Developer</h1>
     </header>
   </div>
   <div>
