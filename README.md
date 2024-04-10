@@ -35,3 +35,6 @@
 ## My PC
 CPU: AMD Ryzen 5800x  
 GPU: PowerColor Hellhound Radeon RX 7800xt
+PSU: Asus ROG Strix 1000w Gold
+Cooling: Lian Li Uni + Arctic Liquid Freeze
+
