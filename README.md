@@ -1,5 +1,9 @@
 # Austin Averill
 #### GIS Developer and Tech Enthusiast
+📄 **[Visit My Portfolio Site](https://AustinA-py.github.io)** - Explore my projects and work
+
+🌐 **[View Live App Example](https://dashboard.render.com/web/srv-d41r2m3ipnbc73feclm0/deploys/dep-d41r4kuuk2gs738l0jpg)** - Check out my latest deployment!
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=red&color=black&link=mailto:austin.averill96@gmail.com)](mailto:austin.averill96@gmail.com)
 
 ## About me
