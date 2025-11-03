@@ -1,6 +1,6 @@
 # Austin Averill
 #### GIS Developer and Tech Enthusiast
-📄 **[Visit My Portfolio Site](https://AustinA-py.github.io)** - Explore my projects and work
+📄 **[Visit My Site](https://AustinA-py.github.io)** - Explore my CV
 
 🌐 **[View Live App Example](https://example-table-application.onrender.com/)** - Check out my latest deployment!
 
@@ -41,5 +41,6 @@ CPU: AMD Ryzen 5800x
 GPU: PowerColor Hellhound Radeon RX 7800xt   
 PSU: Asus ROG Strix 1000w Gold   
 Cooling: Lian Li Uni + Arctic Liquid Freeze
+
 
 
